@@ -1,0 +1,79 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.article .section-w-1153{
+    display: block;
+    height: 100%;
+    width: 1200px;
+    padding: 80px 95px;
+
+}
+.header-card{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 40px;
+}
+.Fundamental-js>img .grid>img, .coin>img, .Make__tic-tac>img{
+    width: 260px;
+    height: 198px;
+    border-radius: 12px;
+}
+.author{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 15px;
+}
+.Fundamental-js>h5{
+    padding-top: 40px;
+    padding-bottom: 75px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 100%;
+    text-transform: capitalize;
+    color: #2B2C34;
+
+}
+.author span{
+    font-weight: bold;
+    font-size: 18px;
+}
+.author p{
+    flex-direction: column;
+    display: flex;
+    font-weight: 400;
+    font-size: 14px;
+    color: #2B2C34;
+    line-height: 100%;
+    text-transform: capitalize;
+}
+.list-card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+
+}
+.grid>h5{
+    padding-top: 25px;
+    padding-bottom: 75px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 100%;
+    text-transform: capitalize;
+    color: #2B2C34;
+
+}
+.coin>h5{
+    padding-top: 25px;
+    padding-bottom: 75px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 100%;
+    text-transform: capitalize;
+    color: #2B2C34;
+}
+
