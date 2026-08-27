@@ -1,5 +1,5 @@
 
-.article .section-w-1153{
+.React-JS .section-w-1153{
     display: block;
     height: 100%;
     width: 1200px;
@@ -12,7 +12,7 @@
     align-items: center;
     margin-bottom: 40px;
 }
-.Fundamental-js>img .grid>img, .coin>img, .Make__tic-tac>img{
+.Build>img .Getting>img, .first>img, .make>img{
     width: 260px;
     height: 198px;
     border-radius: 12px;
@@ -23,8 +23,8 @@
     align-items: center;
     gap: 15px;
 }
-.Fundamental-js>h5{
-    padding-top: 40px;
+.Getting>h5{
+    padding-top: 25px;
     padding-bottom: 75px;
     font-weight: 700;
     font-size: 20px;
@@ -53,7 +53,7 @@
     gap: 25px;
 
 }
-.grid>h5{
+.first>h5{
     padding-top: 25px;
     padding-bottom: 75px;
     font-weight: 700;
@@ -63,7 +63,7 @@
     color: #2B2C34;
 
 }
-.coin>h5{
+.Build>h5{
     padding-top: 25px;
     padding-bottom: 75px;
     font-weight: 700;
@@ -73,3 +73,24 @@
     color: #2B2C34;
 }
 
+.make>h5{
+    padding-top: 25px;
+    padding-bottom: 75px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 100%;
+    text-transform: capitalize;
+    color: #2B2C34;
+}
+
+.more{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+
+    width: 165px;
+    height: 64px;
+    gap: 10px;
+    border-radius: 8px;
+    background: #6246EA;
+}

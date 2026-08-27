@@ -1,5 +1,5 @@
 
-.article .section-w-1153{
+.Javascript .section-w-1153{
     display: block;
     height: 100%;
     width: 1200px;
@@ -12,7 +12,7 @@
     align-items: center;
     margin-bottom: 40px;
 }
-.Fundamental-js>img .grid>img, .coin>img, .Make__tic-tac>img{
+.array>img .Fundamental>img, .project>img, .make>img{
     width: 260px;
     height: 198px;
     border-radius: 12px;
@@ -23,8 +23,8 @@
     align-items: center;
     gap: 15px;
 }
-.Fundamental-js>h5{
-    padding-top: 40px;
+.array>h5{
+    padding-top: 25px;
     padding-bottom: 75px;
     font-weight: 700;
     font-size: 20px;
@@ -53,8 +53,8 @@
     gap: 25px;
 
 }
-.grid>h5{
-    padding-top: 25px;
+.Fundamental>h5{
+    padding-top: 45px;
     padding-bottom: 75px;
     font-weight: 700;
     font-size: 20px;
@@ -63,7 +63,17 @@
     color: #2B2C34;
 
 }
-.coin>h5{
+.project>h5{
+    padding-top: 5px;
+    padding-bottom: 75px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 100%;
+    text-transform: capitalize;
+    color: #2B2C34;
+}
+
+.make>h5{
     padding-top: 25px;
     padding-bottom: 75px;
     font-weight: 700;
