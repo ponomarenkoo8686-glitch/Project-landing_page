@@ -2,11 +2,13 @@
 
 .more-btn-wrap {
     margin-top: 48px;
+
     display: flex;
     justify-content: center;
 }
 
 .more-btn {
+    margin-bottom: 75px;
     background: #4f46e5;
     color: #fff;
     border: none;
@@ -14,7 +16,6 @@
     padding: 14px 32px;
     font-size: 15px;
     font-weight: 600;
-    cursor: pointer;
     box-shadow: 0 8px 20px rgba(79, 70, 229, 0.25);
     transition: background 0.2s ease;
 }
